@@ -268,5 +268,3 @@ This application, `udvashdl`, is created and provided solely for educational pur
 The author of this application shall not be held responsible for any misuse, harm, legal consequences, or piracy that may arise from the use of this application. Users are strongly encouraged to use this tool responsibly and in accordance with applicable laws.
 
 By using this application, you acknowledge and agree to the above disclaimer and the intended educational purpose of this tool.
-
-> This documentation was generated using ChatGPT
